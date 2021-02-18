@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media-Rave.Android", "Media
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media-Rave.iOS", "Media-Rave.iOS\Media-Rave.iOS.csproj", "{132518C5-6ADA-4588-9ADC-8FD69D75E7C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media-Rave", "Media-Rave\Media-Rave.csproj", "{9623C5F5-852D-4621-AD9E-9F9FDAFB2608}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaRave", "Media-Rave\MediaRave.csproj", "{9623C5F5-852D-4621-AD9E-9F9FDAFB2608}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

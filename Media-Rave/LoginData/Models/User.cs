@@ -19,5 +19,13 @@ namespace Media-Rave.Login.Models
 
     }
 
+    public bool CheckInformation()
+        {
+        if(!this.Username.Equals("") && !this.Password.Equals(""))
+            return true;
+        else
+            return false;
+
+    }
 }
 }

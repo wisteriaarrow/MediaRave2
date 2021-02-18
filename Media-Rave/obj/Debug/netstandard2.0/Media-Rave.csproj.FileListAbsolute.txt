@@ -12,3 +12,13 @@ C:\Users\barr_\source\repos\Media-Rave\Media-Rave\obj\Debug\netstandard2.0\XamlC
 C:\Users\barr_\source\repos\Media-Rave\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.dll
 C:\Users\barr_\source\repos\Media-Rave\Media-Rave\obj\Debug\netstandard2.0\ref\Media-Rave.dll
 C:\Users\barr_\source\repos\Media-Rave\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.pdb
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.csprojAssemblyReference.cache
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\LoginData\LoginPage.xaml.g.cs
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.AssemblyInfoInputs.cache
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.AssemblyInfo.cs
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.csproj.CoreCompileInputs.cache
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.dll
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\ref\Media-Rave.dll
+C:\Users\dinag\OneDrive\Documents\MediaRave2-master\MediaRave2-master\Media-Rave\obj\Debug\netstandard2.0\Media-Rave.pdb
